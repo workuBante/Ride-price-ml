@@ -1,5 +1,5 @@
 Ride Price Machine Learning Project
-Project Overview
+
 
 This project focuses on building a machine learning model to predict ride prices based on trip-related features such as distance, duration, traffic conditions, and weather. The objective is to develop a regression model that can estimate the expected price of a ride before it is completed.
 
@@ -111,4 +111,5 @@ The trained model can generalize to unseen data when preprocessing steps are app
 
 
 Overall, the project demonstrates how structured data preprocessing and careful model training can produce accurate ride price predictions.
+
 
