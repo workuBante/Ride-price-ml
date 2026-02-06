@@ -23,7 +23,7 @@ README.md explains the project and how to use it.
 
 Dataset Description
 
-The dataset (rides.csv) contains ride-level information used to predict the ride price.
+The dataset (ride_price1.csv) contains ride-level information used to predict the ride price.
 
 Each row represents a single ride and includes the following attributes:
 
@@ -81,7 +81,7 @@ Ensure Python and Jupyter Notebook are installed.
 
 Navigate to the notebook/ directory.
 
-Open ride_price_model.ipynb using Jupyter Notebook.
+Open ride_price.ipynb using Jupyter Notebook.
 
 Run all cells sequentially from top to bottom.
 
@@ -111,5 +111,6 @@ The trained model can generalize to unseen data when preprocessing steps are app
 
 
 Overall, the project demonstrates how structured data preprocessing and careful model training can produce accurate ride price predictions.
+
 
 
