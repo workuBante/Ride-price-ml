@@ -81,7 +81,7 @@ Ensure Python and Jupyter Notebook are installed.
 
 Navigate to the notebook/ directory.
 
-Open ride_price.ipynb using Jupyter Notebook.
+Open Ride_Price.ipynb using Jupyter Notebook.
 
 Run all cells sequentially from top to bottom.
 
@@ -111,6 +111,7 @@ The trained model can generalize to unseen data when preprocessing steps are app
 
 
 Overall, the project demonstrates how structured data preprocessing and careful model training can produce accurate ride price predictions.
+
 
 
 
