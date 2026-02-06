@@ -10,11 +10,10 @@ The final model aims to provide accurate and reliable price predictions that cou
 Repository Structure
 
 ride-price-ml/
-│── data/
-│ └── rides.csv
-│── notebook/
-│ └── ride_price_model.ipynb
-│── README.md
+  README.md
+  rides.csv
+  ride_price.ipynb
+
 
 data/ contains the dataset used for training and evaluation.
 
@@ -109,5 +108,6 @@ Proper preprocessing (handling categorical variables and scaling) improved model
 Avoiding data leakage (excluding ride_price from input features) was critical for obtaining reliable evaluation results.
 
 The trained model can generalize to unseen data when preprocessing steps are applied consistently.
+
 
 Overall, the project demonstrates how structured data preprocessing and careful model training can produce accurate ride price predictions.
