@@ -9,9 +9,9 @@ The final model aims to provide accurate and reliable price predictions that cou
 
 Repository Structure
 
-ride-price-ml/
-  README.md
-  rides.csv
+ride-price-ml||
+  README.md/
+  ride_price1.csv/
   ride_price.ipynb
 
 
@@ -111,3 +111,4 @@ The trained model can generalize to unseen data when preprocessing steps are app
 
 
 Overall, the project demonstrates how structured data preprocessing and careful model training can produce accurate ride price predictions.
+
